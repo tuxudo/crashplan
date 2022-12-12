@@ -1,4 +1,5 @@
 #!/usr/local/munkireport/munkireport-python3
+
 """
 extracts information about the external displays from system profiler
 """
